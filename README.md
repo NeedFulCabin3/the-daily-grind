@@ -1,6 +1,6 @@
 # The Daily Grind
 
-A lightweight, purely vanilla frontend comic layout designed to capture the hilarious, tragic lifecycle of a production incident. Built entirely using modern CSS grid structures and pure state changes—zero JavaScript required.
+A comic layout designed to capture the hilarious, tragic lifecycle of a production incident. Built entirely using modern CSS grid structures and pure state changes—zero JavaScript required.
 
 ## Overview
 
