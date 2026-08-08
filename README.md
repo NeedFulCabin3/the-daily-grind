@@ -36,7 +36,9 @@ If you prefer running it locally on your machine:
 3. No local build engines, dependency management tools, or local mini-servers are required.
 
 ## Project Structure
+
 ```bash
+the-daily-grind/
 ├── .gitignore              # Environment file filters
 ├── index.html              # Semantic HTML markup and comic dialogue
 ├── README.md               # Documentation asset
